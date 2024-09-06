@@ -3,6 +3,8 @@ Desafio de Recrutamento
 Bem-vindo ao repositório do desafio de recrutamento! Este projeto contém uma série de cinco questões que visam avaliar habilidades de programação, resolução de problemas e lógica. Abaixo, você encontrará a descrição de cada questão e a abordagem para suas soluções.
 A linguagem utilizada para realizar o desafio foi JavaScript.
 
+deploy do desafio: https://thalesfranklin.github.io/Desafio-Target/
+
 Questão 1: Sequência de Fibonacci
 Desenvolva um programa que determine se um número fornecido pertence à sequência de Fibonacci. A sequência é definida como: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, e assim por diante, onde cada número é a soma dos dois números anteriores. O número pode ser informado por qualquer meio de entrada ou definido diretamente no código.
 
