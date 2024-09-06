@@ -1,4 +1,4 @@
-export default function countletterA(str) {
+function countletterA(str) {
     let lowerStr = str.toLowerCase();
     let matches = lowerStr.match(/a/g);
     return matches ? matches.length : 0;
@@ -16,6 +16,4 @@ aButton.addEventListener('click', () => {
     } else {
         result2.textContent = 'Por favor, insira uma string válida.';
     }
-
-
 });
